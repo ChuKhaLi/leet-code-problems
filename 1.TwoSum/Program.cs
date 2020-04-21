@@ -5,6 +5,10 @@ namespace _1.TwoSum
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             var numbers = new [] {2, 7, 11, 15};
