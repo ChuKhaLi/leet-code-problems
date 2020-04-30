@@ -10,7 +10,8 @@
 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-
+27. [Remove Element](https://leetcode.com/problems/remove-element/)
+28. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
 ### Medium
 
