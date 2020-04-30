@@ -27,26 +27,19 @@ namespace _7.ReverseInteger
 
         public static int Reverse(int x)
         {
-            try
+            int result = 0;
+            while (x != 0)
             {
-                int result = 0;
-                while (x != 0)
+                int temp = result * 10 + (x % 10);
+                if (result != temp / 10)
                 {
-                    int temp = result * 10 + (x % 10);
-                    if (result != temp / 10)
-                    {
-                        return 0;
-                    }
-                    result = temp;
-                    x /= 10;
+                    return 0;
                 }
+                result = temp;
+                x /= 10;
+            }
 
-                return result;
-            }
-            catch
-            {
-                return 0;
-            }
+            return result;
         }
     }
 }
