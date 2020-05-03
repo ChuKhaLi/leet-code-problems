@@ -23,6 +23,13 @@
 
 ## Challenges
 
-### May - 2019
+### April - 2020
 
-1. [Day 01 First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
+1. [Day 01. Single Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283)
+2. [Day 02. Happy Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)
+3. [Day 03. Maximum Sub-array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/)
+
+### May - 2020
+
+1. [Day 01. First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
+2. [Day 02. Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
